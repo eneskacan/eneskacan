@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions. <br>
 - 💼 &nbsp; Working as a Fullstack Software Engineer at Scientific and Technological Research Institution of Turkey (TÜBİTAK). <br>
 - 🎓 &nbsp; Studied Computer Engineering at Abdullah Gul University in Turkey. <br>
-- 🌱 &nbsp; Learning more about Containerization, CI/CD and Devops. <br>
+- 🌱 &nbsp; Learning more about Containerization, Kubernetes and Devops. <br>
 - 💎 &nbsp; Planning to learn more about Web3 and Solidity in 2022. <br>
 
 ### 🛠 Tech Stack
@@ -13,7 +13,7 @@
 - 💻 &nbsp; Java & Spring, C#, Dart, Python, Solidity
 - 🌐 &nbsp; HTML, CSS, JavaScript, Bootstrap, Node.js, React, Redux <br>
 - 💾 &nbsp; MySQL, PostgreSQL, MongoDB, Cloud Firestore <br>
-- 🔧 &nbsp; Git, BitBucket, Docker <br>
+- 🔧 &nbsp; Git, Docker, Kubernetes <br>
 
 ### 📈 GitHub Stats
 
